@@ -1,0 +1,6 @@
+[submodule "SubmoduleTestRepo0"]
+	path = SubmoduleTestRepo0
+	url = https://github.com/jjxcelgo/SubmoduleTestRepo0.git
+[submodule "SubmoduleTestRepo1"]
+	path = SubmoduleTestRepo1
+	url = https://github.com/jjxcelgo/SubmoduleTestRepo1.git
